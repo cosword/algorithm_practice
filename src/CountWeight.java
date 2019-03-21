@@ -18,7 +18,7 @@ public class CountWeight {
             }
         }
         //System.out.println("读取完成");
-        //2、计算重量
+        //2、计算重量, 自顶向下
         for(int i = 0; i < 29; i++){
             for(int j = 0; j <= i; j++){
                 matrix[i + 1][j] += matrix[i][j]/2;
