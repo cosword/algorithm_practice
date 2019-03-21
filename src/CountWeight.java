@@ -1,4 +1,4 @@
-import java.math.BigInteger;
+
 import java.util.Scanner;
 
 /**
@@ -17,7 +17,7 @@ public class CountWeight {
                 matrix[i][j] = scanner.nextDouble();
             }
         }
-        System.out.println("读取完成");
+        //System.out.println("读取完成");
         //2、计算重量
         for(int i = 0; i < 29; i++){
             for(int j = 0; j <= i; j++){
