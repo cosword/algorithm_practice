@@ -26,6 +26,7 @@ public class DivideChocolate {
         while (true){
             sum = 0;
             for(int j = 0; j < H.length; j++){
+                //计算每块巧克力在当前边长下可分的数目
                 sum += (H[j] / max) * (W[j] / max);
             }
             if(sum < K)
