@@ -73,7 +73,7 @@ public class MinisterTravel {
 
         }
 
-        //对HashMap排序，这里会增加空间复杂度
+        //对HashMap排序，这里会增加时间和空间复杂度
         List<Map.Entry<String,Integer>> list = new ArrayList<Map.Entry<String,Integer>>(road.entrySet());
         Collections.sort(list,new Comparator<Map.Entry<String,Integer>>() {
             //升序排序

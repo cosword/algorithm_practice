@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ced78c2b-25ed-4c20-8eb5-3d20891d05cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CountBao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GlobalWarming.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm_practice/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm_practice/Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm_practice/MinisterTravel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm_practice/MinisterTravel$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm_practice/MinisterTravel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm_practice/MinisterTravel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinisterTravel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinisterTravel.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,12 +18,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DivideChocolate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+            <state relative-caret-position="147">
+              <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,53 +41,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FrogJump.java">
+        <entry file="file://$PROJECT_DIR$/src/CountBao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="139">
+              <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MinisterTravel.java">
+        <entry file="file://$PROJECT_DIR$/src/GlobalWarming.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1360">
-              <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#188#197#0" expanded="true" />
-                <element signature="e#132#133#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#251#260#0" expanded="true" />
-                <element signature="e#422#439#0" expanded="true" />
-                <element signature="e#413#430#0" expanded="true" />
-                <element signature="e#1410#1437#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="13">
+              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/HashMap.java">
+        <entry file="file://$PROJECT_DIR$/src/MinisterTravel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="954" column="25" selection-start-line="954" selection-start-column="25" selection-end-line="954" selection-end-column="25" />
+            <state relative-caret-position="140">
+              <caret line="75" column="29" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FindCandy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-300">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="680">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,20 +99,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/FindCandy.java" />
         <option value="$PROJECT_DIR$/src/CountWeight.java" />
         <option value="$PROJECT_DIR$/src/DivideChocolate.java" />
         <option value="$PROJECT_DIR$/src/FrogJump.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/CountBao.java" />
+        <option value="$PROJECT_DIR$/src/FindCandy.java" />
+        <option value="$PROJECT_DIR$/src/GlobalWarming.java" />
         <option value="$PROJECT_DIR$/src/MinisterTravel.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-112" />
-    <option name="y" value="262" />
+    <option name="x" value="523" />
+    <option name="y" value="206" />
     <option name="width" value="1940" />
-    <option name="height" value="920" />
+    <option name="height" value="608" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -139,6 +125,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,16 +146,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553267957063" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553355254506" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="F:/迅雷下载/PortableGit/bin/git.exe" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -182,9 +169,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinisterTravel">
-    <configuration name="CountWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountWeight" />
+  <component name="RunManager" selected="Application.CountBao">
+    <configuration name="CountBao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountBao" />
       <module name="algorithm_practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -223,18 +210,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.CountWeight" />
       <item itemvalue="Application.DivideChocolate" />
       <item itemvalue="Application.FrogJump" />
       <item itemvalue="Application.MinisterTravel" />
+      <item itemvalue="Application.CountBao" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountBao" />
         <item itemvalue="Application.MinisterTravel" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.FrogJump" />
         <item itemvalue="Application.DivideChocolate" />
-        <item itemvalue="Application.CountWeight" />
       </list>
     </recent_temporary>
   </component>
@@ -251,16 +238,22 @@
       <workItem from="1553135646931" duration="7356000" />
       <workItem from="1553182337763" duration="2544000" />
       <workItem from="1553243770789" duration="12135000" />
+      <workItem from="1553269277463" duration="77000" />
+      <workItem from="1553269382723" duration="641000" />
+      <workItem from="1553270670783" duration="94000" />
+      <workItem from="1553271398475" duration="487000" />
+      <workItem from="1553271923430" duration="608000" />
+      <workItem from="1553338989951" duration="8957000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22035000" />
+    <option name="totallyTimeSpent" value="32899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24283855" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24597855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -269,7 +262,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.31043956" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -315,9 +308,15 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GlobalWarming.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>17</line>
+          <line>16</line>
           <properties class="Main" method="main">
             <option name="EMULATED" value="true" />
           </properties>
@@ -327,6 +326,50 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18060">
+          <caret line="954" column="25" selection-start-line="954" selection-start-column="25" selection-end-line="954" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="46" column="43" lean-forward="true" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindCandy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FrogJump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="54" column="44" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountBao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/CountWeight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -336,45 +379,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DivideChocolate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FindCandy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FrogJump.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="954" column="25" selection-start-line="954" selection-start-column="25" selection-end-line="954" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="147">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -383,18 +389,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MinisterTravel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+        <state relative-caret-position="140">
+          <caret line="75" column="29" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#188#197#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#251#260#0" expanded="true" />
-            <element signature="e#422#439#0" expanded="true" />
-            <element signature="e#413#430#0" expanded="true" />
-            <element signature="e#1410#1437#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GlobalWarming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
         </state>
       </provider>
     </entry>
